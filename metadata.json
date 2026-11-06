@@ -1,0 +1,8 @@
+{
+  "name": "1152x1152 Stud Baseplate & Marble Physics Playground",
+  "description": "A 3D physics sandbox featuring an authentic 1152x1152 classic Roblox-style stud baseplate, realistic rolling marble mechanics, parkour obstacle courses, ramps, and jump pads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
